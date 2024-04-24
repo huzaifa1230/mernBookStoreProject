@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Music Book",
+    "title": "Pleasing music and songs inside",
+    "price": 100,
+    "category": "songs",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "Food tip and recipies inside",
+    "price": 60,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Sports Book",
+    "title": "Sports news and tips inside",
+    "price": 70,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Comedy Book",
+    "title": "Funny stories inside",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "Exciting stories inside",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713956912~exp=1713960512~hmac=0ba287a10ee62a243f140283ce28507907c7dbcad00bb71f8a35edc0a1704986&w=740"
+  }
+]

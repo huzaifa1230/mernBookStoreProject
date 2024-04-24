@@ -11,9 +11,9 @@ function Banner() {
               <span className="text-pink-500">leaving seat</span>
             </h1>
             <p className="text-xl">
-              "Experience the convenience of browsing and buying books online,
+              Experience the convenience of browsing and buying books online,
               where every click opens the door to a world of knowledge and
-              adventure."
+              adventure.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
