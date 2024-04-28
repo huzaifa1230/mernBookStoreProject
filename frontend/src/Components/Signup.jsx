@@ -77,7 +77,7 @@ function Signup() {
                 <button className=" bg-pink-500 text-white px-3 py-1 rounded-md  hover:bg-pink-700 duration-200">
                   Signup
                 </button>
-                <p className="mt-3 text-md">
+                <p className="mt-3 text-md ">
                   Already a user?{" "}
                   <button
                     className="underline text-blue-500 cursor-pointer"
